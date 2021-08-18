@@ -1,2 +1,2 @@
-# I created this mini-game just for fun 
-eyo 
+# 8 ball_project
+eyo, created this for fun
